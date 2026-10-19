@@ -1096,3 +1096,14 @@ body.theme-retro #modal-help-btn.hidden {
     display: none !important;
 }
 
+.color-mine {
+  color: #e53935;
+}
+
+.color-unknown {
+  color: #f9a825;
+}
+
+.color-safe {
+  color: #2e7d32;
+}
