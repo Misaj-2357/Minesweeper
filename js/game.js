@@ -46,7 +46,7 @@ const TRANSLATIONS = {
         help_controls_hint: "💡 ヒントボタン（Spaceキー）： 確定マスと、その判断理由となる関係マスを黄色くハイライトします。",
         help_controls_lens: "🔍 虫眼鏡ボタン（Zキー）： 未開封マスを2秒間だけ透視します。",
         help_controls_drag: "ドラッグ移動： 盤面が画面より大きい場合、マウスでドラッグしてスクロール移動できます。",
-        help_tips_title: "パターンとコツ　（赤:地雷　黄:不明　緑:安全）",
+        help_tips_title: 'パターンとコツ　（<span class="color-mine">赤:地雷</span>　<span class="color-unknown">黄:不明</span>　<span class="color-safe">緑:安全</span>）',
         tip_11_title: "1-1 パターン",
         tip_11_p: "隣り合う「1」が同じ2つの未開封マスを共有している場合、その2マスのどちらかに地雷が1つあります。そのため、どちらかの「1」が接している共有マス以外のすべてのマスは安全（地雷なし）です。",
         tip_12_title: "1-2 パターン (壁際での応用)",
