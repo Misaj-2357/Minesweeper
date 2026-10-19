@@ -111,7 +111,7 @@ const TRANSLATIONS = {
         help_controls_hint: "💡 Hint Button (Space): Highlights the logical tile and its reasoning in yellow.",
         help_controls_lens: "🔍 Lens Button (Z): Look inside a closed tile for 2 seconds.",
         help_controls_drag: "Drag Scroll: Click and drag to scroll when the board is larger than screen.",
-        help_tips_title: "Patterns & Tips（<span class="color-mine">Red: Mine</span> <span class="color-unknown">Yellow: Unknown</span> <span class="color-safe"> Green: Safe</span>）',
+        help_tips_title: 'Patterns & Tips (<span class="color-mine">Red: Mine</span>, <span class="color-unknown">Yellow: Unknown</span>, <span class="color-safe">Green: Safe</span>)',
         tip_11_title: "1-1 Pattern",
         tip_11_p: "When two adjacent '1's share exactly two closed tiles, one of those tiles contains the mine. Any other closed tiles touching either '1' are safe.",
         tip_12_title: "1-2 Pattern (Wall technique)",
